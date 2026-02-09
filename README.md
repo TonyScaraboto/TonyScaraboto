@@ -14,12 +14,6 @@ Aqui você encontra meus projetos, estudos e experimentos.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyScaraboto&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyScaraboto&layout=compact&theme=radical)
----
 
 ## 🌐 Conecte-se comigo
 
