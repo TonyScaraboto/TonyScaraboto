@@ -24,9 +24,9 @@ Aqui você encontra meus projetos, estudos e experimentos.
 
 ## 🌐 Conecte-se comigo
 
-- [LinkedIn](https://www.linkedin.com/in/tonyscaraboto)  
-- [Portfólio](https://tonyscaraboto.dev)  
-- [Email](mailto:tony.scaraboto@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/antony-%C3%ADtallo-de-souza-97701128b/)  
+- 📧 Email: [antonyitallo@gmail.com](mailto:antonyitallo@gmail.com)  
+- 📱 WhatsApp: [+55 13 99183-6523](https://wa.me/5513991836523)
 
 ---
 
