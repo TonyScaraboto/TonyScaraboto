@@ -29,14 +29,16 @@ const tony: Developer = {
 };
 ```
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/typing.gif" width="320" align="right" alt="coding gif" />
-
 - 🔭  Construindo aplicações **web** e **mobile** modernas.
 - ⚡  Foco em **performance**, **UI/UX** e **código escalável**.
 - 🧩  Do protótipo no **Figma** até o deploy em produção.
 - 📡  Sempre conectado às novas tendências da tecnologia.
 
-<br clear="right"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/typing.gif" width="320" alt="coding gif" />
+
+</div>
 
 <!-- ===================== STACK ===================== -->
 ## `~/stack` 🛠️
