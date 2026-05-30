@@ -34,12 +34,6 @@ const tony: Developer = {
 - 🧩  Do protótipo no **Figma** até o deploy em produção.
 - 📡  Sempre conectado às novas tendências da tecnologia.
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/typing.gif" width="320" alt="coding gif" />
-
-</div>
-
 <!-- ===================== STACK ===================== -->
 ## `~/stack` 🛠️
 
