@@ -69,14 +69,15 @@ const tony: Developer = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TonyScaraboto&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" alt="Estatísticas do GitHub" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyScaraboto&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" alt="Linguagens mais usadas" />
+<img width="68%" src="./github-metrics.svg" alt="Estatísticas do GitHub" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TonyScaraboto&theme=react&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
+<img width="46%" src="./github-metrics-langs.svg" alt="Linguagens mais usadas" />
+&nbsp;
+<img width="50%" src="https://streak-stats.demolab.com?user=TonyScaraboto&theme=react&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
 
 </div>
 
@@ -99,7 +100,7 @@ const tony: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TonyScaraboto&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Troféus do GitHub" />
+<img width="80%" src="./github-metrics-achievements.svg" alt="Conquistas do GitHub" />
 
 </div>
 
